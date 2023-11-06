@@ -1,6 +1,6 @@
 # hw3_calcUnitTests
 
-### Readme
+Readme
 
 This repository contains Homework 3: Simple Calculator + Unit-tests for it
 4 Calculator operations, 19 unit-tests comparing different cases
